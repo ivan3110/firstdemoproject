@@ -14,7 +14,10 @@ public class Car { //Шаблон
     //ЭТО ВСЕ ШАБЛОН
 
 
-
+    //Блпблбла
+    //git add .
+    //git commit -m "Текст Вашего сообщения"
+    //git push
 
     public static void main(String [] args) {
         Car car = new Car();// То это уже конкретная машина
